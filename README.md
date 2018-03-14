@@ -20,7 +20,21 @@ pip install jupyter notebook
 
 **3. Numpy [+mkl for Windows]**
 
+```
+pip3 install numpy --upgrade
+```
+
 **4. Tensorflow [Latest Version]**
+
+```
+pip3 install --upgrade tensorflow
+```
+
+or 
+
+```
+pip3 install --upgrade tensorflow-gpu
+```
 
 **5. Matplotlib**
 
