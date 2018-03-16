@@ -8,7 +8,7 @@
 
 **1. Jupyter Notebook**
 
-**2. Python3.5 + **
+**2. Python3.5+**
 
 **3. Tensorflow**
 
